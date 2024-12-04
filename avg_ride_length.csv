@@ -1,0 +1,15 @@
+sl.no,all_trips_member_casual,all_trips_day_of_week,all_trips_ride_length
+1,casual,Sunday,983708.54
+2,member,Sunday,45735.78
+3,casual,Monday,485311.28
+4,member,Monday,53084.27
+5,casual,Tuesday,758923.40
+6,member,Tuesday,56182.94
+7,casual,Wednesday,680982.83
+8,member,Wednesday,83657.82
+9,casual,Thursday,554798.24
+10,member,Thursday,56110.19
+11,casual,Friday,742739.29
+12,member,Friday,68795.18
+13,casual,Saturday,849717.58
+14,member,Saturday,55277.17
