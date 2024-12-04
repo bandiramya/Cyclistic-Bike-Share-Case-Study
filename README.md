@@ -51,8 +51,7 @@ Analyze historical bike trip data to:
 - Partner with local businesses to offer membership perks.  
 
 ## **Author**  
-[Bandi Ramya]  
-Junior Data Analyst at Cyclistic (fictional role as part of the case study).  
+[Bandi Ramya]    
 
 ## **Contact**  
 For any questions or collaborations, feel free to reach out via [Your Email](bandiramya18@gmail.com).  
